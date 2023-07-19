@@ -1,16 +1,29 @@
-# lista_todo
+# LISTA-TODO (Gerenciador de listas de tarefas)
 
-A new Flutter project.
+## Índice
 
-## Getting Started
+- <a href="#funcionalidades" >Funcionalidades</a>
+- <a href="layout">Layout</a>
+- <a href="#tecnologias-utilizadas" >Tecnologias utilizadas</a>
+- <a href="como-executar">Como executar</a>
+- <a href="autores">Autores</a>
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Criar múltiplas listas de tarefas
+- [x] Alternar entre listas
+- [x] Adicionar/remover tarefas em uma lista
+- [x] Mudar estado de uma tarefa (concluída/pendente)
+- [x] Excluir lista de tarefas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias utilizadas
+
+- [Flutter](https://docs.flutter.dev/)
+- [Dart](https://dart.dev/guides)
+- [Isar Database](https://isar.dev/)
+
+## Como executar
+
+## Autores
