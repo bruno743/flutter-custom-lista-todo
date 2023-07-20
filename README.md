@@ -20,10 +20,29 @@
 
 ## Tecnologias utilizadas
 
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Flutter](https://docs.flutter.dev/)
 - [Dart](https://dart.dev/guides)
 - [Isar Database](https://isar.dev/)
 
 ## Como executar
 
+```
+# Clone este repositório
+$ git clone https://github.com/bruno743/flutter-custom-lista-todo.git
+
+# Acesse a pasta do projeto
+$ cd flutter-custom-lista-todo
+
+# Instale as dependências
+$ flutter pub get
+
+# Execute a aplicação
+```
+Para iniciar a aplicação no VS Code é preciso selecionar o dispositivo em que será executada e iniciar a depuração. Mais detalhes na documentação do Flutter, na seção [Test drive](https://docs.flutter.dev/get-started/test-drive).
+
 ## Autores
+
+imagem
+
+[Linkedin](https://www.linkedin.com/in/bruno-felipe-608a85219/)
