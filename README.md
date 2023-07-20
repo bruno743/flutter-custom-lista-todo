@@ -18,6 +18,9 @@
 
 ## Layout
 
+![tela1](./layout/tela1.png)
+![tela2](./layout/tela2.png)
+
 ## Tecnologias utilizadas
 
 - [Visual Studio Code](https://code.visualstudio.com/)
