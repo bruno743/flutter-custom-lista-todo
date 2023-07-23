@@ -46,6 +46,6 @@ Para iniciar a aplicação no VS Code é preciso selecionar o dispositivo em que
 
 ## Autores
 
-imagem
+<img style="width:300px" src="https://avatars.githubusercontent.com/u/57687873?v=4" alt="foto do desenvolvedor" >
 
 [Linkedin](https://www.linkedin.com/in/bruno-felipe-608a85219/)
